@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: ptarasyuk/podcast-generator@main
+        uses: ptarasyuk/podcast-generator@v1.0.0
